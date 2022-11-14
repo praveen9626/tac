@@ -1,2 +1,8 @@
 css
 this is a requirment file
+c++
+JS
+php 
+html
+pycham
+java
